@@ -1,0 +1,195 @@
+Island start	Island end	Length	Method	Gene name	Gene ID	Locus	Gene start	Gene end	Strand	Product	External Annotations
+237107	243802	6695	Predicted by at least one method			BV884_01135	237190	238407	-1	tetracycline efflux MFS transporter Tet(B)	
+237107	243802	6695	Predicted by at least one method			BV884_01140	238489	239112	1	transposase	
+237107	243802	6695	Predicted by at least one method			BV884_01145	239090	239494	-1	ArsR family transcriptional regulator	
+237107	243802	6695	Predicted by at least one method			BV884_01150	239732	241225	-1	IS91 family transposase	
+237107	243802	6695	Predicted by at least one method			BV884_01155	241436	241660	-1	hypothetical protein	
+237107	243802	6695	Predicted by at least one method			BV884_01160	241673	241876	-1	hypothetical protein	
+237107	243802	6695	Predicted by at least one method			BV884_01165	241780	242616	-1	aminoglycoside O-phosphotransferase APH(6)-Id	
+237107	243802	6695	Predicted by at least one method			BV884_01170	242616	243419	-1	aminoglycoside O-phosphotransferase APH(3'')-Ib	
+944747	950580	5833	Predicted by at least one method			BV884_04525	944747	945904	1	integrase	
+944747	950580	5833	Predicted by at least one method			BV884_04530	945901	946785	1	endonuclease/exonuclease/phosphatase	
+944747	950580	5833	Predicted by at least one method			BV884_04535	946776	947231	1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04540	947346	948338	1	FRG domain-containing protein	
+944747	950580	5833	Predicted by at least one method			BV884_04545	948516	948731	-1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04550	948728	948937	-1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04555	948934	949443	-1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04560	949440	949976	-1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04565	949969	950148	-1	hypothetical protein	
+944747	950580	5833	Predicted by at least one method			BV884_04570	950149	950439	-1	hypothetical protein	
+1022284	1028900	6616	Predicted by at least one method			BV884_04975	1022284	1022925	-1	hypothetical protein	
+1022284	1028900	6616	Predicted by at least one method			BV884_04980	1022922	1023764	-1	hypothetical protein	
+1022284	1028900	6616	Predicted by at least one method			BV884_04985	1023909	1024925	-1	hypothetical protein	
+1022284	1028900	6616	Predicted by at least one method			BV884_04990	1024962	1025474	-1	DNA polymerase V subunit UmuC	
+1022284	1028900	6616	Predicted by at least one method			BV884_04995	1025715	1026380	1	hypothetical protein	
+1022284	1028900	6616	Predicted by at least one method			BV884_05000	1026756	1027985	1	integrase	
+1022284	1028900	6616	Predicted by at least one method			BV884_05005	1028133	1028900	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_04985	1023909	1024925	-1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_04990	1024962	1025474	-1	DNA polymerase V subunit UmuC	
+1023764	1047593	23829	Predicted by at least one method			BV884_04995	1025715	1026380	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05000	1026756	1027985	1	integrase	
+1023764	1047593	23829	Predicted by at least one method			BV884_05005	1028133	1028900	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05010	1029110	1029325	1	transcriptional regulator	
+1023764	1047593	23829	Predicted by at least one method			BV884_05015	1029328	1029537	1	DNA-binding protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05020	1029534	1030088	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05025	1030081	1030449	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05030	1030459	1030764	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05035	1030886	1031164	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05040	1031177	1033642	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05045	1033976	1034092	1	single-stranded DNA-binding protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05050	1034315	1035757	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05055	1035745	1035840	1	single-stranded DNA-binding protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05060	1036270	1037316	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05065	1037319	1038524	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05070	1040910	1042304	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05075	1042415	1044208	1	NTPase KAP	
+1023764	1047593	23829	Predicted by at least one method			BV884_05080	1044236	1045000	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05085	1044993	1046321	1	hypothetical protein	
+1023764	1047593	23829	Predicted by at least one method			BV884_05090	1046321	1047061	1	hydrolase TatD	
+1023764	1047593	23829	Predicted by at least one method			BV884_05095	1047081	1047359	-1	hypothetical protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05015	1029328	1029537	1	DNA-binding protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05020	1029534	1030088	1	hypothetical protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05025	1030081	1030449	1	hypothetical protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05030	1030459	1030764	1	hypothetical protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05035	1030886	1031164	1	hypothetical protein	
+1029328	1033642	4314	Predicted by at least one method			BV884_05040	1031177	1033642	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05885	1210071	1210871	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05890	1210868	1211206	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05895	1211199	1211591	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05900	1211591	1211992	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05905	1211989	1212465	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05910	1212437	1212691	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05915	1212937	1213155	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05920	1213369	1213920	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05925	1214094	1214327	-1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05930	1214970	1215314	1	hypothetical protein	
+1210868	1215759	4891	Predicted by at least one method			BV884_05935	1215523	1215759	1	hypothetical protein	
+1288503	1298565	10062	Predicted by at least one method			BV884_06320	1288503	1288922	-1	peptidase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06325	1288939	1289643	1	IS6 family transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06330	1289589	1289702	-1	adenine-specific DNA-methyltransferase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06335	1289673	1290212	1	recombinase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06340	1290395	1291255	1	class A broad-spectrum beta-lactamase TEM-1	
+1288503	1298565	10062	Predicted by at least one method			BV884_06345	1291264	1291380	1	adenine-specific DNA-methyltransferase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06350	1291326	1292030	-1	IS6 family transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06355	1292055	1294943	1	DDE transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06360	1295054	1295713	1	transposon DNA-invertase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06365	1295725	1296429	1	IS6 family transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06370	1296320	1296580	-1	transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06375	1296521	1296700	1	hypothetical protein	
+1288503	1298565	10062	Predicted by at least one method			BV884_06380	1296854	1297669	-1	aminoglycoside O-phosphotransferase APH(3')-Ia	
+1288503	1298565	10062	Predicted by at least one method			BV884_06385	1297799	1298503	1	IS6 family transposase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06390	1298449	1298565	-1	5,10-methylenetetrahydrofolate reductase	
+1288503	1298565	10062	Predicted by at least one method			BV884_06395	1298563	1299186	1	TetR family transcriptional regulator	
+1289673	1298503	8830	Predicted by at least one method			BV884_06330	1289589	1289702	-1	adenine-specific DNA-methyltransferase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06335	1289673	1290212	1	recombinase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06340	1290395	1291255	1	class A broad-spectrum beta-lactamase TEM-1	
+1289673	1298503	8830	Predicted by at least one method			BV884_06345	1291264	1291380	1	adenine-specific DNA-methyltransferase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06350	1291326	1292030	-1	IS6 family transposase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06355	1292055	1294943	1	DDE transposase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06360	1295054	1295713	1	transposon DNA-invertase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06365	1295725	1296429	1	IS6 family transposase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06370	1296320	1296580	-1	transposase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06375	1296521	1296700	1	hypothetical protein	
+1289673	1298503	8830	Predicted by at least one method			BV884_06380	1296854	1297669	-1	aminoglycoside O-phosphotransferase APH(3')-Ia	
+1289673	1298503	8830	Predicted by at least one method			BV884_06385	1297799	1298503	1	IS6 family transposase	
+1289673	1298503	8830	Predicted by at least one method			BV884_06390	1298449	1298565	-1	5,10-methylenetetrahydrofolate reductase	
+1367699	1378090	10391	Predicted by at least one method			BV884_06725	1367692	1368954	-1	exodeoxyribonuclease VII large subunit	
+1367699	1378090	10391	Predicted by at least one method			BV884_06735	1369460	1369693	1	transposase	
+1367699	1378090	10391	Predicted by at least one method			BV884_06740	1369845	1370516	-1	peptidase S24	
+1367699	1378090	10391	Predicted by at least one method			BV884_06745	1370752	1370949	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06750	1371117	1371506	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06755	1371544	1372089	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06760	1372156	1372773	-1	lysine transporter LysE	
+1367699	1378090	10391	Predicted by at least one method			BV884_06765	1373293	1373508	1	cold-shock protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06770	1373712	1373936	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06775	1374216	1375031	1	pyrroline-5-carboxylate reductase	
+1367699	1378090	10391	Predicted by at least one method			BV884_06780	1375461	1375711	-1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06785	1375792	1376250	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06790	1376542	1376886	1	hypothetical protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06795	1376984	1378090	1	phage head morphogenesis protein	
+1367699	1378090	10391	Predicted by at least one method			BV884_06800	1378085	1379299	-1	MFS transporter	
+2024101	2029358	5257	Predicted by at least one method			BV884_09890	2024101	2024397	-1	hypothetical protein	
+2024101	2029358	5257	Predicted by at least one method			BV884_09895	2024612	2025451	1	hypothetical protein	
+2024101	2029358	5257	Predicted by at least one method			BV884_09900	2025448	2026149	1	hypothetical protein	
+2024101	2029358	5257	Predicted by at least one method			BV884_09905	2026407	2026901	-1	DNA-binding protein	
+2024101	2029358	5257	Predicted by at least one method			BV884_09910	2026970	2028073	-1	hypothetical protein	
+2024101	2029358	5257	Predicted by at least one method			BV884_09915	2028263	2028907	-1	TetR family transcriptional regulator	
+2024101	2029358	5257	Predicted by at least one method			BV884_09920	2029124	2029358	1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11405	2341091	2341390	1	transposase	
+2340589	2355808	15219	Predicted by at least one method			BV884_11410	2341402	2342256	1	transposase	
+2340589	2355808	15219	Predicted by at least one method			BV884_11415	2342288	2342497	1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11420	2342502	2343095	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11425	2343102	2343749	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11430	2343760	2344440	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11435	2344629	2345174	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11440	2345217	2345606	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11445	2345674	2349099	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11450	2349092	2349454	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11455	2349451	2349957	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11460	2349957	2350355	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11465	2350448	2351035	-1	hypothetical protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11470	2351126	2355436	-1	phage tail tape measure protein	
+2340589	2355808	15219	Predicted by at least one method			BV884_11475	2355514	2355789	-1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11715	2388050	2388307	1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11720	2388298	2388507	1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11725	2388504	2388788	1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11730	2388792	2389049	1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11735	2389050	2389319	1	DNA-binding protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11740	2389325	2390587	-1	integrase	
+2388050	2394036	5986	Predicted by at least one method			BV884_11745	2391088	2391951	-1	hypothetical protein	
+2388050	2394036	5986	Predicted by at least one method			BV884_11750	2392187	2392756	1	transposase	
+2388050	2394036	5986	Predicted by at least one method			BV884_11755	2392831	2393222	1	transposase	
+2388050	2394036	5986	Predicted by at least one method			BV884_11760	2393464	2394036	1	TetR family transcriptional regulator	
+2573040	2577254	4214	Predicted by at least one method			BV884_12585	2573040	2573345	1	DNA-binding protein	
+2573040	2577254	4214	Predicted by at least one method			BV884_12590	2573431	2573715	1	hypothetical protein	
+2573040	2577254	4214	Predicted by at least one method			BV884_12595	2573718	2574074	1	hypothetical protein	
+2573040	2577254	4214	Predicted by at least one method			BV884_12600	2574167	2575726	1	transposase	
+2573040	2577254	4214	Predicted by at least one method			BV884_12605	2575790	2576011	1	hypothetical protein	
+2573040	2577254	4214	Predicted by at least one method			BV884_12610	2576370	2577254	-1	Mph(E) family macrolide 2'-phosphotransferase	
+3664246	3673971	9725	Predicted by at least one method			BV884_17745	3664352	3664921	1	transposase	
+3664246	3673971	9725	Predicted by at least one method			BV884_17750	3664996	3665387	1	transposase	
+3664246	3673971	9725	Predicted by at least one method			BV884_17755	3665349	3665462	-1	oxidoreductase	
+3664246	3673971	9725	Predicted by at least one method			BV884_17760	3665826	3666707	-1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17765	3666752	3667057	-1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17770	3667200	3667763	-1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17775	3667953	3668504	-1	TetR family transcriptional regulator	
+3664246	3673971	9725	Predicted by at least one method			BV884_17780	3668817	3669011	1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17785	3669633	3670535	1	AraC family transcriptional regulator	
+3664246	3673971	9725	Predicted by at least one method			BV884_17790	3670647	3671648	1	aldo/keto reductase	
+3664246	3673971	9725	Predicted by at least one method			BV884_17795	3671695	3672087	-1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17800	3672112	3672855	-1	hypothetical protein	
+3664246	3673971	9725	Predicted by at least one method			BV884_17805	3673084	3673971	1	EamA family transporter	
+3664246	3673971	9725	Predicted by at least one method			BV884_17810	3673968	3674888	-1	transcriptional regulator	
+3926022	3945817	19795	Predicted by at least one method			BV884_18970	3926033	3926425	-1	ribonuclease P protein component	
+3926022	3945817	19795	Predicted by at least one method			BV884_18975	3926455	3926589	-1	50S ribosomal protein L34	
+3926022	3945817	19795	Predicted by at least one method			BV884_18980	3928259	4003648	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_18985	3928320	3928657	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_18990	3928962	3929183	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_18995	3929523	3929837	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19000	3929873	3930371	1	J domain-containing protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19005	3930515	3930798	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19010	3930942	3931275	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19015	3931291	3931485	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19020	3931514	3931844	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19025	3932423	3932892	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19030	3932897	3935053	1	type IV secretion system protein VirD4	
+3926022	3945817	19795	Predicted by at least one method			BV884_19035	3935065	3936398	1	conjugal transfer protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19040	3936459	3938338	1	AAA family ATPase	
+3926022	3945817	19795	Predicted by at least one method			BV884_19045	3938428	3938853	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19050	3938907	3939233	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19055	3939271	3939837	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19060	3940165	3940362	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19065	3940373	3940560	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19070	3941305	3942078	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19075	3942136	3943227	-1	phosphohydrolase	
+3926022	3945817	19795	Predicted by at least one method			BV884_19080	3943740	3943946	1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19085	3943952	3944188	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19090	3944193	3944882	-1	hypothetical protein	
+3926022	3945817	19795	Predicted by at least one method			BV884_19095	3945161	3945775	1	resolvase	
+3936459	3940560	4101	Predicted by at least one method			BV884_18980	3928259	4003648	1	hypothetical protein	
+3936459	3940560	4101	Predicted by at least one method			BV884_19040	3936459	3938338	1	AAA family ATPase	
+3936459	3940560	4101	Predicted by at least one method			BV884_19045	3938428	3938853	1	hypothetical protein	
+3936459	3940560	4101	Predicted by at least one method			BV884_19050	3938907	3939233	-1	hypothetical protein	
+3936459	3940560	4101	Predicted by at least one method			BV884_19055	3939271	3939837	-1	hypothetical protein	
+3936459	3940560	4101	Predicted by at least one method			BV884_19060	3940165	3940362	1	hypothetical protein	
+3936459	3940560	4101	Predicted by at least one method			BV884_19065	3940373	3940560	-1	hypothetical protein	

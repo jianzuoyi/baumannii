@@ -1,0 +1,3 @@
+>gnl|PRJNA360504|BV884_01110 carbapenem-hydrolyzing class D beta-lactamase OXA-23 [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_08500 OXA-51 family carbapenem-hydrolyzing class D beta-lactamase OXA-66 [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_17740 carbapenem-hydrolyzing class D beta-lactamase OXA-23 [Acinetobacter baumannii]

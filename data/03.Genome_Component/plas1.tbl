@@ -1,0 +1,752 @@
+>Feature gb|CP019115|
+74642	75390	gene
+1	10
+			locus_tag	BV884_18980
+74642	75390	CDS
+1	10
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_18980
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001053127.1
+62	399	gene
+			locus_tag	BV884_18985
+			pseudo
+62	399	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000654056.1
+704	925	gene
+			locus_tag	BV884_18990
+			pseudo
+704	925	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	internal stop; incomplete; partial on complete genome; missing start
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002031409.1
+1265	1579	gene
+			locus_tag	BV884_18995
+1265	1579	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_18995
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000708715.1
+1615	2113	gene
+			locus_tag	BV884_19000
+			pseudo
+1615	2113	CDS
+			product	J domain-containing protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000758694.1
+2257	2540	gene
+			locus_tag	BV884_19005
+			pseudo
+2257	2540	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000270931.1
+2684	3017	gene
+			locus_tag	BV884_19010
+			pseudo
+2684	3017	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000597530.1
+3033	3227	gene
+			locus_tag	BV884_19015
+3033	3227	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19015
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000560244.1
+3586	3256	gene
+			locus_tag	BV884_19020
+			pseudo
+3586	3256	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001066685.1
+4165	4634	gene
+			locus_tag	BV884_19025
+			pseudo
+4165	4634	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000192272.1
+4639	6795	gene
+			locus_tag	BV884_19030
+			pseudo
+4639	6795	CDS
+			product	type IV secretion system protein VirD4
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_005134288.1
+6807	8140	gene
+			locus_tag	BV884_19035
+			pseudo
+6807	8140	CDS
+			product	conjugal transfer protein
+			transl_table	11
+			pseudo
+			note	frameshifted; incomplete; partial on complete genome; missing stop
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002011429.1
+8201	10080	gene
+			locus_tag	BV884_19040
+			pseudo
+8201	10080	CDS
+			product	AAA family ATPase
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002013724.1
+10170	10595	gene
+			locus_tag	BV884_19045
+10170	10595	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19045
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000261891.1
+10975	10649	gene
+			locus_tag	BV884_19050
+10975	10649	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19050
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001132522.1
+11579	11013	gene
+			locus_tag	BV884_19055
+			pseudo
+11579	11013	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002011434.1
+11907	12104	gene
+			locus_tag	BV884_19060
+			pseudo
+11907	12104	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	incomplete; partial on complete genome; missing stop
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002031411.1
+12302	12115	gene
+			locus_tag	BV884_19065
+			pseudo
+12302	12115	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	frameshifted
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002001267.1
+13820	13047	gene
+			locus_tag	BV884_19070
+13820	13047	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19070
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000844619.1
+14969	13878	gene
+			locus_tag	BV884_19075
+14969	13878	CDS
+			product	phosphohydrolase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19075
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000794252.1
+15482	15688	gene
+			locus_tag	BV884_19080
+15482	15688	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19080
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000535990.1
+15930	15694	gene
+			locus_tag	BV884_19085
+15930	15694	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19085
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001057663.1
+16624	15935	gene
+			locus_tag	BV884_19090
+16624	15935	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19090
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000389917.1
+16903	17517	gene
+			locus_tag	BV884_19095
+16903	17517	CDS
+			product	resolvase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19095
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001266386.1
+17990	17559	gene
+			locus_tag	BV884_19100
+17990	17559	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19100
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001190813.1
+18351	18016	gene
+			locus_tag	BV884_19105
+18351	18016	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19105
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001074610.1
+18582	19208	gene
+			locus_tag	BV884_19110
+18582	19208	CDS
+			product	murein transglycosylase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19110
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000568625.1
+19225	19461	gene
+			locus_tag	BV884_19115
+19225	19461	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19115
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001078617.1
+19512	19865	gene
+			locus_tag	BV884_19120
+19512	19865	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19120
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000424621.1
+19887	20180	gene
+			locus_tag	BV884_19125
+19887	20180	CDS
+			product	type IV conjugative transfer system protein TraL
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19125
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_004895563.1
+20185	20763	gene
+			locus_tag	BV884_19130
+20185	20763	CDS
+			product	conjugal transfer protein TraE
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19130
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000376691.1
+20750	21466	gene
+			locus_tag	BV884_19135
+20750	21466	CDS
+			product	conjugal transfer protein TraK
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19135
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002039004.1
+21476	22792	gene
+			locus_tag	BV884_19140
+21476	22792	CDS
+			product	conjugal transfer protein TraB
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19140
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_005134280.1
+22794	23516	gene
+			locus_tag	BV884_19145
+22794	23516	CDS
+			product	protein-disulfide isomerase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19145
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000714144.1
+23559	23819	gene
+			locus_tag	BV884_19150
+23559	23819	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19150
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000876194.1
+23820	24464	gene
+			locus_tag	BV884_19155
+23820	24464	CDS
+			product	type IV conjugative transfer system protein TraV
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19155
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000823132.1
+24474	27200	gene
+			locus_tag	BV884_19160
+24474	27200	CDS
+			product	type-IV secretion system protein TraC
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19160
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000147410.1
+27197	27592	gene
+			locus_tag	BV884_19165
+27197	27592	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19165
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_005134278.1
+27640	28140	gene
+			locus_tag	BV884_19170
+27640	28140	CDS
+			product	signal peptidase I
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19170
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001058570.1
+28127	28765	gene
+			locus_tag	BV884_19175
+28127	28765	CDS
+			product	type-F conjugative transfer system protein TraW
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19175
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000672680.1
+28762	29805	gene
+			locus_tag	BV884_19180
+28762	29805	CDS
+			product	conjugal transfer protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19180
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_005134276.1
+29820	30527	gene
+			locus_tag	BV884_19185
+29820	30527	CDS
+			product	type-F conjugative transfer system pilin assembly protein TrbC
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19185
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000733536.1
+30524	32581	gene
+			locus_tag	BV884_19190
+30524	32581	CDS
+			product	conjugal transfer protein TraN
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19190
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000591718.1
+32598	33386	gene
+			locus_tag	BV884_19195
+32598	33386	CDS
+			product	conjugal transfer protein TraF
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19195
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002001280.1
+33421	33750	gene
+			locus_tag	BV884_19200
+33421	33750	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19200
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000644930.1
+33784	35211	gene
+			locus_tag	BV884_19205
+33784	35211	CDS
+			product	conjugal transfer protein TraH
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19205
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000692620.1
+35227	38229	gene
+			locus_tag	BV884_19210
+35227	38229	CDS
+			product	conjugal transfer protein TraG
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19210
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000347999.1
+38277	38819	gene
+			locus_tag	BV884_19215
+38277	38819	CDS
+			product	transglycosylase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19215
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000537783.1
+39843	38851	gene
+			locus_tag	BV884_19220
+39843	38851	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19220
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000064924.1
+40009	41301	gene
+			locus_tag	BV884_19225
+40009	41301	CDS
+			product	DNA polymerase V subunit UmuC
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19225
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000658211.1
+41600	41316	gene
+			locus_tag	BV884_19230
+41600	41316	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19230
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000849956.1
+41853	41626	gene
+			locus_tag	BV884_19235
+41853	41626	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19235
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000739903.1
+42144	43151	gene
+			locus_tag	BV884_19240
+42144	43151	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19240
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000601797.1
+43750	43313	gene
+			locus_tag	BV884_19245
+43750	43313	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19245
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000928806.1
+44519	43854	gene
+			locus_tag	BV884_19250
+44519	43854	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19250
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001167227.1
+44812	44561	gene
+			locus_tag	BV884_19255
+44812	44561	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19255
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000572025.1
+45113	44880	gene
+			locus_tag	BV884_19260
+45113	44880	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19260
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000719147.1
+45614	46777	gene
+			locus_tag	BV884_19265
+45614	46777	CDS
+			product	plasmid replicase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19265
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000217892.1
+46849	47088	gene
+			locus_tag	BV884_19270
+46849	47088	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19270
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000429543.1
+47075	48157	gene
+			locus_tag	BV884_19275
+47075	48157	CDS
+			product	toxin
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19275
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000258411.1
+48173	49438	gene
+			locus_tag	BV884_19280
+48173	49438	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19280
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000770546.1
+49404	49928	gene
+			locus_tag	BV884_19285
+49404	49928	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19285
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000100569.1
+49974	50354	gene
+			locus_tag	BV884_19290
+49974	50354	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19290
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000227379.1
+50508	50882	gene
+			locus_tag	BV884_19295
+50508	50882	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19295
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002034678.1
+51054	51650	gene
+			locus_tag	BV884_19300
+51054	51650	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19300
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000095825.1
+51656	51847	gene
+			locus_tag	BV884_19305
+51656	51847	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19305
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000182323.1
+52066	52281	gene
+			locus_tag	BV884_19310
+52066	52281	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19310
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001012847.1
+52286	52762	gene
+			locus_tag	BV884_19315
+52286	52762	CDS
+			product	nuclease
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19315
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000869078.1
+52828	53154	gene
+			locus_tag	BV884_19320
+52828	53154	CDS
+			product	DNA-binding protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19320
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000078385.1
+53167	53355	gene
+			locus_tag	BV884_19325
+53167	53355	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19325
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000427815.1
+53458	53793	gene
+			locus_tag	BV884_19330
+53458	53793	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19330
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000637354.1
+53786	54262	gene
+			locus_tag	BV884_19335
+53786	54262	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19335
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000625647.1
+54312	55001	gene
+			locus_tag	BV884_19340
+54312	55001	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19340
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000389917.1
+55006	55242	gene
+			locus_tag	BV884_19345
+55006	55242	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19345
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001057663.1
+55454	55248	gene
+			locus_tag	BV884_19350
+55454	55248	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19350
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000535990.1
+55967	57058	gene
+			locus_tag	BV884_19355
+55967	57058	CDS
+			product	phosphohydrolase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19355
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000794252.1
+57116	57889	gene
+			locus_tag	BV884_19360
+57116	57889	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19360
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000844619.1
+58370	58867	gene
+			locus_tag	BV884_19365
+58370	58867	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19365
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001067227.1
+58896	59672	gene
+			locus_tag	BV884_19370
+58896	59672	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19370
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001086346.1
+59865	60638	gene
+			locus_tag	BV884_19375
+59865	60638	CDS
+			product	ATPase
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19375
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000724906.1
+60642	61898	gene
+			locus_tag	BV884_19380
+60642	61898	CDS
+			product	transcriptional regulator
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19380
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000096600.1
+62034	63263	gene
+			locus_tag	BV884_19385
+62034	63263	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19385
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001024504.1
+63278	63511	gene
+			locus_tag	BV884_19390
+63278	63511	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19390
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000241707.1
+63515	64393	gene
+			locus_tag	BV884_19395
+63515	64393	CDS
+			product	toxic anion resistance protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19395
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002130051.1
+64406	65686	gene
+			locus_tag	BV884_19400
+64406	65686	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19400
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_005134298.1
+65791	66048	gene
+			locus_tag	BV884_19405
+65791	66048	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19405
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000834292.1
+66053	66625	gene
+			locus_tag	BV884_19410
+66053	66625	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19410
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000429351.1
+66601	66780	gene
+			locus_tag	BV884_19415
+66601	66780	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19415
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000387630.1
+66797	67426	gene
+			locus_tag	BV884_19420
+66797	67426	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19420
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000701004.1
+67466	67975	gene
+			locus_tag	BV884_19425
+67466	67975	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19425
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001043199.1
+68057	68569	gene
+			locus_tag	BV884_19430
+68057	68569	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19430
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000840065.1
+68613	68954	gene
+			locus_tag	BV884_19435
+68613	68954	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19435
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002001471.1
+68991	69719	gene
+			locus_tag	BV884_19440
+68991	69719	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19440
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001022819.1
+69724	69930	gene
+			locus_tag	BV884_19445
+69724	69930	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19445
+			inference	COORDINATES: ab initio prediction:GeneMarkS+
+69955	70509	gene
+			locus_tag	BV884_19450
+69955	70509	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19450
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000790082.1
+70559	71095	gene
+			locus_tag	BV884_19455
+70559	71095	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19455
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000732006.1
+71151	71375	gene
+			locus_tag	BV884_19460
+			pseudo
+71151	71375	CDS
+			product	hypothetical protein
+			transl_table	11
+			pseudo
+			note	internal stop
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_002031409.1
+71931	71632	gene
+			locus_tag	BV884_19465
+71931	71632	CDS
+			product	transcriptional regulator
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19465
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_001140617.1
+72290	71931	gene
+			locus_tag	BV884_19470
+72290	71931	CDS
+			product	addiction module toxin RelE
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19470
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000312250.1
+72491	73057	gene
+			locus_tag	BV884_19475
+72491	73057	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19475
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000710385.1
+73106	73288	gene
+			locus_tag	BV884_19480
+73106	73288	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19480
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000373385.1
+73355	74053	gene
+			locus_tag	BV884_19485
+73355	74053	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19485
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000873188.1
+74192	74575	gene
+			locus_tag	BV884_19490
+74192	74575	CDS
+			product	hypothetical protein
+			transl_table	11
+			protein_id	gnl|PRJNA360504|BV884_19490
+			inference	COORDINATES: similar to AA sequence:RefSeq:WP_000654348.1

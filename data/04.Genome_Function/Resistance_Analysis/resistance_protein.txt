@@ -1,0 +1,7 @@
+>gnl|PRJNA360504|BV884_01660 fusaric acid resistance protein [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_03190 organic hydroperoxide resistance protein [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_03395 copper resistance protein CopB [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_08160 arsenical-resistance protein [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_14435 Bcr/CflA family drug resistance efflux transporter [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_15565 Bcr/CflA family drug resistance efflux transporter [Acinetobacter baumannii]
+>gnl|PRJNA360504|BV884_19395 toxic anion resistance protein (plasmid) [Acinetobacter baumannii]
